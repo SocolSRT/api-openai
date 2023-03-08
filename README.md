@@ -26,3 +26,7 @@ Custom query size limiter (number of characters 1000)
 
 Limiting the rate of sending requests (1 request per 10 seconds)
 > await asyncio.sleep(10)
+
+# Would you like to support me financially?
+* My Bitcoin wallet - *14AA4FAdUYnTVTx5pSQjq2h8UJoA8Na89R*
+* My Litecoin wallet - *MSevKqUirTvQTkGxYechhNmBgAtDiZJq2x*
